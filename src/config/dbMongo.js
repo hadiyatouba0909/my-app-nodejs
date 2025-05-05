@@ -1,4 +1,4 @@
-// config/dbMongo.js
+// /home/ba/Bureau/OFMS/MAMADOU/my-app-nodejs/src/config/dbMongo.js
 import mongoose from "mongoose";
 
 const connectDB = async () => {
